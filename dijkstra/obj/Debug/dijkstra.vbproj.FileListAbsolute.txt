@@ -1,0 +1,33 @@
+C:\Users\nebiros\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\obj\Debug\dijkstra.Form1.resources
+C:\Users\nebiros\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\obj\Debug\dijkstra.Resources.resources
+C:\Users\nebiros\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\obj\Debug\dijkstra.vbproj.GenerateResource.Cache
+C:\Users\nebiros\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\bin\Debug\dijkstra.exe.config
+C:\Users\nebiros\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\bin\Debug\dijkstra.exe
+C:\Users\nebiros\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\bin\Debug\dijkstra.pdb
+C:\Users\nebiros\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\bin\Debug\dijkstra.xml
+C:\Users\nebiros\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\obj\Debug\dijkstra.exe
+C:\Users\nebiros\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\obj\Debug\dijkstra.xml
+C:\Users\nebiros\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\obj\Debug\dijkstra.pdb
+C:\Users\eduroot\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\bin\Debug\dijkstra.exe.config
+C:\Users\eduroot\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\obj\Debug\dijkstra.exe
+C:\Users\eduroot\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\obj\Debug\dijkstra.xml
+C:\Users\eduroot\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\obj\Debug\dijkstra.pdb
+C:\Users\eduroot\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\bin\Debug\dijkstra.exe
+C:\Users\eduroot\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\bin\Debug\dijkstra.pdb
+C:\Users\eduroot\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\bin\Debug\dijkstra.xml
+C:\Users\eduroot\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\obj\Debug\dijkstra.Form1.resources
+C:\Users\eduroot\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\obj\Debug\dijkstra.Resources.resources
+C:\Users\eduroot\Desktop\Trabajo Algoritmo Dijkstra\dijkstra\dijkstra\obj\Debug\dijkstra.vbproj.GenerateResource.Cache
+C:\Users\Eduardo\Desktop\dijkstra\dijkstra\bin\Debug\dijkstra.exe.config
+C:\Users\Eduardo\Desktop\dijkstra\dijkstra\obj\Debug\dijkstra.exe
+C:\Users\Eduardo\Desktop\dijkstra\dijkstra\obj\Debug\dijkstra.xml
+C:\Users\Eduardo\Desktop\dijkstra\dijkstra\obj\Debug\dijkstra.pdb
+C:\Users\Eduardo\Desktop\dijkstra\dijkstra\obj\Debug\dijkstra.vbprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\dijkstra\dijkstra\obj\Debug\dijkstra.Form1.resources
+C:\Users\Eduardo\Desktop\dijkstra\dijkstra\obj\Debug\dijkstra.Resources.resources
+C:\Users\Eduardo\Desktop\dijkstra\dijkstra\obj\Debug\dijkstra.vbproj.GenerateResource.Cache
+C:\Users\Eduardo\Desktop\dijkstra\dijkstra\bin\Debug\dijkstra.exe
+C:\Users\Eduardo\Desktop\dijkstra\dijkstra\bin\Debug\dijkstra.pdb
+C:\Users\Eduardo\Desktop\dijkstra\dijkstra\bin\Debug\dijkstra.xml
+C:\Users\Eduardo\Desktop\dijkstra\dijkstra\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Eduardo\Desktop\dijkstra\dijkstra\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
